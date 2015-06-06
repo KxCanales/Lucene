@@ -8,5 +8,7 @@ Este modulo de Lucene debe ser empaquetado en un .jar y agregado como una librer
 - QueryParser 5.1.0
 - AnalyzerCommon 5.1.0
 
+Además de las librerias que utiliza de Lucene, utiliza librerias dej JDBC connector para establecer las conexiones necesarias hacia la base de datos.
+
 #FUTURO
 Aún esta en construcción este módulo y todo lo que tiene que ver con las dependencias, están en desarrollo, prontamente se añadiran nuevas funcionalidades y se solucionaran el tema de las dependencias.
